@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullahyalcin/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg"
-      alt="linkedin" title="Connect with me on LinkedIn" style="background-color: #0077B5;" width="22px" />
+      alt="linkedin" title="Connect with me on LinkedIn" style="background-color: #ffffff;" width="22px" />
   </a>
 </p>
 
