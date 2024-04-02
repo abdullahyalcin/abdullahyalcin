@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullahyalcin/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin-white.svg"
+    <img src="[https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin-white.svg](https://www.svgrepo.com/show/922/linkedin.svg)"
       alt="linkedin" title="Connect with me on LinkedIn" width="22px" />
   </a>
 </p>
