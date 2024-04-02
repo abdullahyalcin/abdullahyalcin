@@ -8,11 +8,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" width="22px" />
 </a>
   &nbsp;&nbsp;
-<a href="https://medium.com/@yasinhasturk" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" width="22px" />
-</a></p>
 
-![](https://komarev.com/ghpvc/?username=yasindevops&style=flat-square&color=blue)
 
 ### 🚀 About Me:
 
